@@ -1,5 +1,7 @@
 # Tableau
 
-https://public.tableau.com/en-us/s/resources
+# Learning
+https://www.tableau.com/learn/training/20194
 
-https://www.edureka.co/blog/interview-questions/top-tableau-interview-questions-and-answers/
+# Tableau Public profile
+https://public.tableau.com/profile/meghana4914#!/?newProfile=&activeTab=0
